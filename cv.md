@@ -5,8 +5,6 @@
 ## **Contact information:**
 >Location: Minsk, Belarus
 
->Phone: +37529 8506582
-
 >E-mail: inna2011@tut.by
 
 >Telegram: @inna_grzn
