@@ -1,7 +1,5 @@
 # **Inna Groznaya**
 
-![my photo](1.jpg "it's me :)")
-
 ---
 
 ## **Contact information:**
