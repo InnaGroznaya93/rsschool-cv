@@ -29,7 +29,11 @@ I am a pianist by profession and work. A year and a half ago, I became intereste
 ## **Skills:**
 1. Java (basics)
 1. JavaScript (basics)
-1. VS Code, IntelliJ IDEA
+1. HTML, CSS, SASS
+1. VS Code, IntelliJ IDEA, WebStorm
+1. React
+1. Redux
+
 
 ___
 
